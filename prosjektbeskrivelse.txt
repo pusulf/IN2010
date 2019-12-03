@@ -1,0 +1,33 @@
+Notater
+
+presentere case:
+-Skoleoppgave i faget Algoritmer og Datastrukturer.
+
+-Du skal ved hjelp av grafteori lage et program som analyserer prosjekter og henter ut ulik informasjon om dem
+
+-Du får inn txt filer i et spessifikt format som forteller deg om ulike arbeidsoppgaver
+
+-Du får id, navn, tid, manpower, og hvilke avhenigheter de har
+
+-Jeg løste ved å bygge opp hver jobb som en graf, der hver node var arbeidsoppgaver
+
+-Jeg jobbet objektorientert med programmet, og begynte med de overordnende 
+
+Jeg kjørte en top-down approach
+
+-doProject
+-Topological sort
+-Rekursiv sykel deteksjon
+-Find optimal time schedual
+-Reliziability
+
+programmerte som om jeg hadde allerede hadde mange metoder
+
+feks find optimal schedual, 
+
+og bygde og testet dem etter hvert som det ble behov for dem.
+
+Bare noen få metoder er public, de fleste er private da alt gjøres i en go
+
+Det ble bygget i flere omganger, så jeg har strebet etter å kommentere koden min tilstrekkelig
+
